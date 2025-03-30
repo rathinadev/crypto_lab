@@ -194,9 +194,5 @@ After testing Cowrie, normal SSH access is blocked or redirected.
    sudo systemctl start ssh
    ```
 
----
 
-## **7. Conclusion**
-
-This document outlines common issues faced while setting up and running Cowrie, their causes, and how to fix them. Following this guide ensures a smooth experience during presentations or lab sessions. 🚀
 

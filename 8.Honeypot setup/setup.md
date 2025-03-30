@@ -128,8 +128,4 @@ sudo systemctl enable ssh
 sudo systemctl start ssh
 ```
 
----
-
-## **6. Conclusion**
-This guide provides a step-by-step approach to setting up, testing, monitoring, and removing Cowrie. By following these steps, you can deploy a honeypot in a lab environment and analyze attacker behavior. 🚀
 
